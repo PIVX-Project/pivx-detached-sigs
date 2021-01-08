@@ -52,6 +52,14 @@
 		<data>
 		WgI7XzEbz4TvzQ2//Tebo/KPINs=
 		</data>
+		<key>Resources/sapling-output.params</key>
+		<data>
+		DrxaHvNlOUjhxGz3oWBx6sS341I=
+		</data>
+		<key>Resources/sapling-spend.params</key>
+		<data>
+		oVq1TCiIiA5TyCOjBjggxyhEQSY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -185,6 +193,28 @@
 			<key>hash2</key>
 			<data>
 			H0p0XurqqgtHFQ0xxyCjminMHviElBGcYSXcYrMovnY=
+			</data>
+		</dict>
+		<key>Resources/sapling-output.params</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DrxaHvNlOUjhxGz3oWBx6sS341I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lw67y7m7C8/+laOX5+uonCnrTd5hkcM524hXDj8/sOQ=
+			</data>
+		</dict>
+		<key>Resources/sapling-spend.params</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVq1TCiIiA5TyCOjBjggxyhEQSY=
+			</data>
+			<key>hash2</key>
+			<data>
+			jkj/0jq7Ol/ZxViSBPMtnDEoWgS3gJa6QKebdWd+/BM=
 			</data>
 		</dict>
 	</dict>
